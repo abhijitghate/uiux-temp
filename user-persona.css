@@ -1,0 +1,82 @@
+/* external css style file for the user persona section*/
+
+.persona-number {
+    text-align: center;
+    grid-column: 2;
+    font-family: 'Miriam Libre', sans-serif;
+    font-size: 1.4rem;
+    color: #b6b6b6;
+    margin-bottom: 0.3em;
+}
+
+.persona-name {
+    text-align: center;
+    grid-column: 2;
+    font-family: 'Miriam Libre', sans-serif;
+    font-size: 1.3rem;
+    color: #000000;
+    font-weight: 600;
+    margin-bottom: 0.3em;
+}
+
+.persona-tagline {
+    text-align: center;
+    grid-column: 2;
+    font-weight: 300;
+    font-size: 1.1rem;
+    color: grey;
+}
+
+.persona-description {
+    color: #696969;
+    grid-column: 2;
+    font-size: 0.95rem;
+    margin: 2rem auto 1em auto;
+    text-align: left;
+    line-height: 1.4rem;
+    padding-inline-start: 0;
+}
+
+
+.persona-goal {
+    text-align: center;
+    grid-column: 2;
+    color: #000000;
+    font-weight: 700;
+    font-size: 1.15rem;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-family: 'Miriam Libre', sans-serif;
+}
+
+.persona-gd {
+    color: #696969;
+    grid-column: 2;
+    font-size: 0.95rem;
+    margin-top: 0.5em;
+    text-align: center;
+    line-height: 1.3rem;
+    margin-bottom: 1.9rem;
+    padding-bottom: 2.5em;
+    border-bottom: 1px dashed #b6b6b6;
+}
+
+.persona-gd-l {
+    color: #696969;
+    grid-column: 2;
+    font-size: 0.95rem;
+    margin-top: 0.5em;
+    text-align: center;
+    line-height: 1.3rem;
+    margin-bottom: 2.2rem;
+    padding-bottom: 2.5em;
+    border-bottom: 1px dashed #b6b6b6;
+}
+
+.scene {
+	font-size: 1rem;
+	line-height: 1.9rem;
+	color: #696969;
+    margin-bottom: 1.5em;
+    margin-block-start: 0;
+}

@@ -1,0 +1,44 @@
+/* external css style file */
+
+.title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 0.5em 0 0.5em 0; 
+    color: #434343;
+    background-color: #b6b6b67d;
+    padding: 0.4em;  
+    text-align: center;
+    line-height: 1.3em;
+}
+
+.verbatim-f {
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1rem;
+    margin: 1.1em auto 0.7em auto;
+    color: #696969;
+    line-height: 1.4em;
+}
+
+.verbatim {
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1rem;
+    margin: 0.7em auto 0.7em auto;
+    color: #696969;
+    line-height: 1.4em;
+}
+
+.verbatim-l {
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1rem;
+    margin: 0.7em auto 3.5rem auto;
+    color: #696969;
+    line-height: 1.4em;
+}
+
+.verbatch-l {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
