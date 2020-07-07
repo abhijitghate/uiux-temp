@@ -1,0 +1,1 @@
+<?php include_once("case-study-2.html"); ?>
